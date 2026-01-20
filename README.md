@@ -11,7 +11,7 @@ I am a **Senior Software Engineer with 5+ years of hands-on experience** buildin
 
 Currently, I lead the development of **Document Processor** — a high-scale product bridging **traditional RPA** with **AI-powered automation**. My work involves:
 - 📄 **Intelligent Document Understanding:** End-to-end processing of unstructured data.
-- 🧠 **ML-Driven Classification:** Training and deploying models for high-accuracy document routing.
+- 🧠 **ML-Driven Classification:** Seamlessly integrating ML models into production RPA pipelines to automate complex decision-making.
 - 👁️ **Computer Vision:** Advanced preprocessing and OCR optimization pipelines.
 - 🗣️ **NLP Workflows:** Complex extraction, validation, and semantic analysis.
 
