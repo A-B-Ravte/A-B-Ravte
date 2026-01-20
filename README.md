@@ -51,15 +51,23 @@ Now, I am **pivoting deeply into the Agentic AI frontier** to build:
 
 ## 📈 Learning in Public (Consistency > Motivation)
 
-### 🟢 100 Days – 100 Python Programs
+<details>
+<summary><b>🟢 100 Days – 100 Python Programs (Click to expand)</b></summary>
+
 📌 **Advanced Python Mastery**
 - Focusing on production-grade code, concurrency, and real-world logic.
+- Day-to-day tracking of automation-focused problem solving.
 - ➡️ [Explore the Repository](https://github.com/A-B-Ravte/100-Days-100-Programs.git)
+</details>
 
-### 🔵 LeetCode DSA – Pattern-Based Mastery
+<details>
+<summary><b>🔵 LeetCode DSA – Pattern-Based Mastery (Click to expand)</b></summary>
+
 📌 **Problem Solving & Algorithm Design**
 - Weekly deep-dives into Arrays, Graphs, Recursion, and System Thinking.
+- Learning patterns like Sliding Window, Two Pointers, and BFS/DFS.
 - ➡️ [Explore the Repository](https://github.com/A-B-Ravte/LeetCode-DSA.git)
+</details>
 
 ---
 
